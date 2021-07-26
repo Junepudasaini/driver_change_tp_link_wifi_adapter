@@ -2,6 +2,8 @@
 
 Commands to change the driver on the wi-fi adapter(TL-WN722N V2,V3).
 
+Execute these commands one by one and restart your machine if necessary.
+
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 sudo apt update && sudo apt upgrade
